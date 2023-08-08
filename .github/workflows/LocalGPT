@@ -1,0 +1,7 @@
+# Import Local GPT
+~ % cd Documents/GitHub
+GitHub % git clone https://github.com/PromptEngineer/LocalGPT.git localgpt_llama2
+
+# delete % cd local_llama2
+# delete % conda create -n localgpt_llama2 python=3.10.0
+
